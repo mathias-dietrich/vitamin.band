@@ -1,2 +1,2 @@
 # vitamin.band
-Vitam Band Home
+Vitamin Band Home
